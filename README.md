@@ -15,4 +15,5 @@ You’ll get to know the basic syntax of Python and write a simple program using
 
 # Project Details
 Link: https://hyperskill.org/projects/97?track=2
-My Jetbrains Academy Proflie: https://hyperskill.org/profile/59960428
+
+# My Jetbrains Academy Proflie: https://hyperskill.org/profile/59960428
